@@ -5,8 +5,7 @@
  * Author: Sergio Santana <sergiosantana@iteso.mx>
  *
  */
-#include "tcp_app.sh"
-
+/*Ya no hay nada*/
 #include "lwip/opt.h"
 
 #if LWIP_NETCONN
